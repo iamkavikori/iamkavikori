@@ -54,7 +54,9 @@
 
 ### 🧠 Currently Working On
 - ✈️ Travel-themed UI site (HTML/CSS)
-- 📊 ML notebook for travel data prediction (Colab)
+
+### ✔ Completed projects
+- 📊 ML notebook for travel data prediction (Colab) (https://github.com/iamkavikori/travel-price-predictor)
 
 ---
 
