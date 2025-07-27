@@ -55,6 +55,7 @@
 ### 🧠 Projects
 - ✈️ Travel-themed UI site (HTML/CSS) (https://iamkavikori.github.io/travel-ui-site-interactive/)
 - 📊 ML notebook for travel data prediction (Colab) (https://github.com/iamkavikori/travel-price-predictor)
+- 🎮 Rock paper scissors game with GUI (python) (https://replit.com/@kavi129026/Rock-paper-scissors-game-with-GUI-python)
 
 ---
 
